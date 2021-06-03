@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July 26, a diurnall and particula[r] of the last weekes daily occurrents from His Maiesty, in severall places from Iuly the 16. to this present, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27767</idno><idno type="EEBO-CITATION">13534250</idno>
+  <idno type="VID">197816</idno>
+  <idno type="EEBO-PROQUEST">2240949814</idno>
+  
+            <idno type="STC">Wing P43</idno>
+            <idno type="OCLC">13534250</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 260:E202, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>July 26, a diurnall and particula[r] of the last weekes daily occurrents from His Maiesty, in severall places from Iuly the 16. to this present, 1642.</title>
+                  <author>I. P. Letter sent from Leicester to a worthy lady in this city.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. F. for D. C.,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>Iuly 26, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at head of t.p.: July 26.</note>
+                  <note>"A letter sent from Leicester to a worthy lady in this city" (p. 7-8) signed I.P.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="narrative">
+            <pb n="1" facs="tcp:197816:1"/>
+            <head>A DIURNALL and Particula<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> OF The last Weekes daily Occurrents from his MAIESTY, in severall Places.</head>
+            <head type="sub">
+               <hi>From Iuly the</hi> 16. <hi>to this present.</hi> 1642</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE King lying two dayes at <hi>Lincolne,</hi> at one Mr. <hi>Charles Dal<g ref="char:EOLhyphen"/>lisons</hi> a Counsellor of <hi>Grayes-Inne,</hi> and Re<g ref="char:EOLhyphen"/>corder of the Towne, whom his Majesty left Sir CHARLES, there came in on the Coun<g ref="char:EOLhyphen"/>trey at least 30. Thou<g ref="char:EOLhyphen"/>sand, whose behaviour and joy (considering what was thought before) showed how much the pre<g ref="char:EOLhyphen"/>sence of a Prince doth winne and satisfie a peo<g ref="char:EOLhyphen"/>ples disposition; Here he left the Commission of <hi>Array</hi> at a good posture.</p>
+            <pb n="2" facs="tcp:197816:2"/>
+            <p> some ten Miles from <hi>Lincoln,</hi> upon the He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, there was presented unto him by a young Ca<g ref="char:EOLhyphen"/>valeere, from two his of his Sisters and him<g ref="char:EOLhyphen"/>selfe, thirty great Horses, the Riders every one in his Buffe Coate and Scarlet Hose, rich Scarfs and Feathers, the Gentlewomen were there themselves, who tendered themselves at his Ma<g ref="char:EOLhyphen"/>jesties Caroach side, to kisse his hand, he thank'd them very graciously, and assured them their Brother should find his further expression, in this manner from severall private hands, there came neere upon 80. Horses, well accoutred and Man'd, which was made up a compleate Troope, and their Command given to the young Gentleman.</p>
+            <p>By the way there met with his Majesty a Post, who brought newes of a combustion likely to be in the Army, between some Commanders, which newes quickned his hast, and comming to it found there had beene some stirre, and siding betweene two or three Captaines that exprest themselves Newters, or worse affected, two of them was dismist and their Lievetenants, and offer made by the King in publike and generall tearmes, That if any desired to returne home, or had other businesse, they might freely depart, for he desired not any mans service, but what came with a most free and voluntary affection. To which the Souldiers answered with a gene<g ref="char:EOLhyphen"/>rall shout, and cried twice or thrice, <hi>God blesse the King.</hi> The King the next morning made five
+<pb n="3" facs="tcp:197816:2"/> or six Field Officers, from private Captaines, and so advanced the rest, and Knighted two.</p>
+            <p>Serjeant Major <hi>Palmer</hi> was sent to take a Muster of seaven thousand Horse, by <hi>Yorke,</hi> and to waite upon the Prince, who was to be there for his Majesties Person, the Country comes in very fast, and the Campe increases dayly, so that it is very probably conjectured, the North will show as able an Army of Horse, as ever <hi>England</hi> did, and it is worth generall observation to see how the People are joy'd and taken with the Souldiery of the Prince and the Duke of <hi>Yorke,</hi> who give such forward expressions, as if they would be thought men in all their Actions, indeed the Prince doth exercise his Troope so orderly and boldly, as begets both affection and hope.</p>
+            <p>Vpon Tuesday morning very early there ap<g ref="char:EOLhyphen"/>peared in the Towne of <hi>Hull,</hi> for an Houre a great smoake and Fire, and wee could heare the Drums beare, but it continued no longer, and was thought to be some mischance. The King rose this morning very early, was very active a<g ref="char:EOLhyphen"/>bout the Army, gaged and tryed many of the horsemens Pieces, and gave order that every Officers should do the like, in the afternoone, he had a long conference with the Lords concerning the Parliaments Petition and the Earle of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> and appeared very pleasant afterwards.</p>
+            <p>This day the Army which before lay like a Crescent, was joyned into a full body, and the
+<pb n="4" facs="tcp:197816:3"/> King tooke a Troope of Horse, and Colonell <hi>Ʋavasors</hi> Regiment, the <hi>Elector</hi> another Troope of Horse, and Colonell <hi>Stricklands</hi> Regiment, divided them into severall Formes and wings, and made severall brave Skirmishes.</p>
+            <p>As the King was at Dinner in His Tent, there came a Messenger from <hi>Wiltshire,</hi> who brought newes at what pause the Countrey stood be<g ref="char:EOLhyphen"/>tween the Militia and the Commission of Ar<g ref="char:EOLhyphen"/>ray, and what Answer they had returned to the Earle of <hi>Pembrooke,</hi> with a Petition from some that stood firme for his Maiesty, that he would please to send Instructions by some persons of quality and trust, but the King will thither him<g ref="char:EOLhyphen"/>self 'tis thought. The same night came a packet from Mr. <hi>Hastings,</hi> which complained of a great disobedience committed against his Maiesties Commands and Commission, Collonell <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uns<g ref="char:EOLhyphen"/>foord</hi> standing by, when his Majesty imparted it to the Lord <hi>Moubray,</hi> who told him, that if he would please but to vouchsafe his presence there hee was confident it would ingage their duties, and so in other places. This Evening the King see the triall of a great Mortarpiece, and some Fire<g ref="char:EOLhyphen"/>workes by a Dutchman, which was done with a great deale of Art.</p>
+            <p>There came foure Gentlemen from the Vni<g ref="char:EOLhyphen"/>versity of <hi>Cambridge,</hi> with a Petition and decla<g ref="char:EOLhyphen"/>ration to his Majesty, who received them very favourably, and the next day they returned.</p>
+            <p>The King spent better halfe of the Night in
+<pb n="5" facs="tcp:197816:3"/> writing, and is this morne for <hi>Liecester.</hi> Col<g ref="char:EOLhyphen"/>lonell <hi>Lunsford</hi> was dispatched for <hi>Newcastle</hi> with a Packet, the Lord <hi>Paget</hi> to <hi>Yorke</hi> with a<g ref="char:EOLhyphen"/>nother, to the Prince and the Lord <hi>Keeper.</hi>
+            </p>
+            <p>Sir <hi>Iohn Hotham</hi> turned five men out of the Towne, who pretend themselves <hi>Norwich</hi> Fac<g ref="char:EOLhyphen"/>tors, and got leave for home, they report the Townesmen mutter shreudly at Sir <hi>Iohn,</hi> and that he hath committed the Major, some Al<g ref="char:EOLhyphen"/>dermen and chiefe men, but it should seeme there be many unruly Members in the Towne, that thinke much to obey his Commands, there<g ref="char:EOLhyphen"/>fore he hath committed some, and confined o<g ref="char:EOLhyphen"/>thers to their Houses, with a guard upon them, they were askt what Fire it was appeared one morning, and as they say, it was a Barne of corne (which a little Girle as is pretended) set on Fire, playing with a Fire-sticke, and thrusting it into a hole in the Barne wall.</p>
+            <p>There was a woman and Child killed in that hurly burly by accident, but one of those Fac<g ref="char:EOLhyphen"/>tors had such a paper found about him, for they were searcht, as made them all suspected, and committed to the Provost Marshall.</p>
+            <p>Sir <hi>Iohn</hi> hath made the Towne exceeding strong, and not to be taken as they conceive, if they agree within, nor wants provision, yet they wish a supply from the Parliament, and this side is as confident to have it.</p>
+            <p>In the Kings absence the Lord great Chamber<g ref="char:EOLhyphen"/>laine gives all Commands and directions to the Army which lyes at an excellent posture, strong
+<pb n="6" facs="tcp:197816:4"/> and orderly, fortified with exquisite works, En<g ref="char:EOLhyphen"/>gines and great Guns, onely a Trage-Comique passage happened incident to Captaines, a poore loving Wench (who cannot now obscure her name from generall notice being <hi>Nan Ball)</hi> well enough known in <hi>London</hi> too, was taken in mans cloathes, waiting upon her beloved Lievtenant, and by a foolish accident betrayed and carryed before the Earle of <hi>Lindsey,</hi> he was quit from his command, and she should have suffered pub<g ref="char:EOLhyphen"/>lique shame, but a Letter was procured from the Duke of <hi>Yorke</hi> for her reprieve, and so loving heart she was turn'd to seek her fortune, which she might happen to find at <hi>Yorke.</hi>
+            </p>
+            <p>The Earle of <hi>Warwicke</hi> hath scoured the Ri<g ref="char:EOLhyphen"/>ver and all the Coasts upon <hi>Lincolnshire</hi> cleere. But there will be Newes from <hi>Newcastle</hi> Ships before it be long, for the King is resolved to be sudden.</p>
+            <p>There came very current Newes this night that two of the Earles ships met a very lusty Fleming upon the Coast of <hi>Sal fleet haven,</hi> a place in <hi>Lincolnshire,</hi> which they knew to be a man of Warre by her built, she carryed 30 pieces to be seen, they hayl'd her for the King she would not stoope, then they shot, and she shot, but tooke the benefit of a gale, tack't about and made her way, they gave her chase, and what the issue is it cannot yet be knowne, but it is beleeved she was a ship of some consequence.</p>
+            <p>Though you have all the Money and Plate at <hi>London,</hi> here is mirth, good Victuals and drink, and the Cavaleers hope by degrees, <hi>Guild-hall</hi> will come to <hi>Yorke.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:197816:4"/>
+            <head>
+               <hi>A Letter sent from</hi> Leicester <hi>to a worthy Lady in this City.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O give you an earely returne of our Newes here (the Messenger being warne in his saddle) J was constrai<g ref="char:EOLhyphen"/>ned to seale it up in hast; therefore in short be pleased to know, though the King came unto us suddenly, hee came not unlookt for, nor was his welcome so apparant at the comming as at his farewell: His presence having lest a strong and perswading influence upon those affections, which onely knew him before, by false Copies which 10000. (at least) of the Countrey in their joyes and acclamations gave an account of, the next day he came. His first entertainment was in a reasonable honest Speech, addrest more to his Majesty then His Prerogative, (indeed Madam, the Gentleman had but little warning to provide it) His next was the affection of some Gentry and others in their joyes and shouts. J shall not need to give your Ladiship an account of Mr. <hi>Hastings</hi> du<g ref="char:EOLhyphen"/>ty in his service, onely the circumstance may speake it the louder, (and the more accepta<g ref="char:EOLhyphen"/>ble, to all that thinke it, as it was meant) who waited upon him with the Guard of 2. hundred gallant Horse, divers other of the Gentry with him tendered themselves. There was two
+<pb n="8" facs="tcp:197816:5"/> Petitions delivered to his Majesty by the patties of the County, his Majesty accepted both very cheerfully, &amp; thanked them with a Speech, which deserves both their best considerations and du<g ref="char:EOLhyphen"/>ties. J speake my conscience <hi>Madam,</hi> what His Majesty propounded for the Commission of <hi>Array,</hi> and the Authority he left with Mr. <hi>Ha<g ref="char:EOLhyphen"/>stings,</hi> I believe will find more hands then was before surmised, for the people begin to lay their hands on their hearts, and I hope they shall never have cause to lay them on their Swords, against conscience or Country; but the King de<g ref="char:EOLhyphen"/>parted better pleased, and left the County bet<g ref="char:EOLhyphen"/>ter satisfyed, his hast made him pleased to excuse what came short of our wishes in his Entertain<g ref="char:EOLhyphen"/>ment, I pray God blesse him, and all his loving Subjects in him, and this Prayer J am confident your Ladiship will joyne, with your</p>
+            <closer>
+               <signed>Humblest Servant, <hi>I. P.</hi>
+               </signed>
+               <dateline>
+                  <hi>Leicester,</hi>
+                  <date>23. <hi>Iuly,</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Iuly</hi> 26. LONDON, Printed by <hi>T. F.</hi> for <hi>D. C.</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
